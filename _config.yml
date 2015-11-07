@@ -20,7 +20,7 @@ keywords: "smith, jones, personal, jekyll, theme"
 # Intro layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+#black-favicon: "/img/black-lab-glass.ico"
 background-img: "../img/console.jpg"
 me-img: "/img/elena-cv.jpg"
 
