@@ -104,9 +104,8 @@ social:
 # In the default page it will point to the preview of the last post
 
 pages_list:
-  Elena: 'elena'
+  Elena: 'about-me'
   Studio: 'timebird-studios'
-#  Pavel: 'pavel'
   Contact: 'contact'
 
 # Pagination path
